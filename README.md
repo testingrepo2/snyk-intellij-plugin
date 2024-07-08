@@ -4,7 +4,7 @@ description: Use this documentation to get started with the JetBrains plugin.
 
 # JetBrains plugins
 
-Snyk offers IDE integrations that allow you to use the functionality of Snyk in your Integrated Development Environment. This page describes the Snyk JetBrains plugins. For information about all of the IDE plugins and their use, see [Snyk for IDEs](https://docs.snyk.io/ide-tools) in the docs.
+Snyk offers IDE integrations that allow you to use the functionality of Snyk in your Integrated Development Environment. This page describes the Snyk JetBrains plugins. For information about all of the IDE plugins and their use, see [Snyk for IDEs](https://docs.snyk.io/ide-tools) in the docs. 
 
 Snyk supports JetBrains plugins from version 2020.2 for [IntelliJ IDEA](https://snyk.io/lp/intellij-ide-plugin/) and [WebStorm](https://snyk.io/lp/webstorm-ide-plugin/) as well as Android Studio, AppCode, GoLand, PhpStorm, PyCharm, Rider, and RubyMine.
 
